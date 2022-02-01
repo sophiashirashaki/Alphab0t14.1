@@ -27,13 +27,13 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 ⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+♈ YouTube : Nothing
+♉ Github : https://github.com/sophiashirashaki
+♊ Instagram : instagram.com/sophiashirashaki
+♋ Tiktok : Nothing
+♌ Telegram : https://t.me/erosei_1
+♎ Ch Telegram : https://t.me/projectsupdates
+♏ WhatsApp : https://wa.me/6285751657737
 `}
 
 exports.infobot = infobot
